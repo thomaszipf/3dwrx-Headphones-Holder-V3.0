@@ -1,11 +1,10 @@
-# 3dwrx-Headphones-Holder-Wall-Mount-V3.0
+# 3dwrx-Headphones-Holder-V3.0
 
-Link to the product on Thingiverse:
-https://www.thingiverse.com/thing:3354430
+## The purpose of 3dwrx-Headphones-Holder-V3.0
+Behind this idea is something that I once saw on the Internet. At the time I decided to make my own version because it was quite different.
+The time when I decided that I need to do this as soon as possible is when I needed to go shopping and wanted to grab my headphones. I made a mess while trying just to take my headphones and trying to put them back on their dedicated place. 
 
-**Why this design?**
-
-I already made two versions of headphones stands / wall holders. The first one was not very good in terms of real-world performance, the second was less beautiful. So, I made a remix of both to take the best of two worlds. Let me know what you think.
+This was the idea behind the first version of this design. I already made a second version which was better in real-world performance but was not that aesthetically pleasing. This version is a mix of the first two versions.
 
 
 <p align="center">
@@ -17,20 +16,20 @@ I already made two versions of headphones stands / wall holders. The first one w
 </p>
 
 
-**What are the core features?**
+## What are the core features?
 
-• Can be screwed to any wall / ground
+• can be screwed to any wall
 
-• Takes up headphones, even if they have a wide band
+• can be used for any type of headphones, even if they have a wide band
 
-• Looks nice
+• looks really nice mounted on the wall
 
-• Easy to print
-
-
-**How to print:**
-
-Orientate the part faced with the screw surface side to the bottom of your printer and print
+• easy to print
 
 
+## How to setup:
 
+Orientate the part faced with the screw surface side to the bottom of your printer and print.
+
+## Disclaimer:
+However, since most of the application is depending on the assembly, the chosen components other then the mount, the level of adjustment from your side, the print settings as well as the particular environment you want to use the solution, it might be good to take it with a grain of salt. I‘m not granting any warranty nor taking any responsibility for this solution to work in your case. Please check upon using if the solution can work for you in your particular use case following own steps for qualification such as checking the setup and components before using and considering and checking own laws and regulations before bringing the solution into action.
